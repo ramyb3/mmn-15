@@ -1,0 +1,28 @@
+הערות ממ"ן 15- רמי
+
+//........Tester - Class Point - Question 1.........//
+//...Testing toString...//
+//...Testing equals...//
+//...Testing move...//
+//...Testing isAbove...//
+//...Testing isUnder...//
+//...Testing isLeft...//
+//...Testing isRight...//
+//...Testing distance...//
+//......Tester - Class PointNode - Question 2.......//
+//...Testing aliasing...//
+//...Testing initiation...//
+//.......Tester - Class Polygon - Question 3........//
+//...Testing toString...//
+//...Testing addVertex...//
+//...Testing highestVertex...//
+//...Testing perimeter calculation...//
+//...Testing area calculation...//
+//...Testing isBigger...//
+//...Testing findVertex...//
+//...Testing getNextVertex...//
+//...Testing getBoundingBox...//
+
+יפה מאוד! מושלם!
+בהצלחה!
+רונית
